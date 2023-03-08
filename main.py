@@ -1,8 +1,8 @@
 import requests
 from twilio.rest import Client
 
-VIRTUAL_TWILIO_NUMBER = "+19788308904"
-VERIFIED_NUMBER = "+16365783202"
+VIRTUAL_TWILIO_NUMBER = ""
+VERIFIED_NUMBER = ""
 
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
