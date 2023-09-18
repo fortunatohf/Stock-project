@@ -10,10 +10,10 @@ COMPANY_NAME = "Tesla Inc"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-STOCK_API_KEY = "R2JE28ETY4N19I02"
-NEWS_API_KEY = "f0e60cb93d7a4a9c97f932b7d7bd55a7"
-TWILIO_SID = "ACb8a772a7e245bcb0cda1f83eb07e961f"
-TWILIO_AUTH_TOKE = "bad3e21ac1cbc76986e82fe670452d3e"
+STOCK_API_KEY = ""
+NEWS_API_KEY = ""
+TWILIO_SID = ""
+TWILIO_AUTH_TOKE = ""
 
 
 #Get yesterday's closing stock price
